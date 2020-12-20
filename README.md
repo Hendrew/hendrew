@@ -1,4 +1,11 @@
-### Hi there 👋
+### A little bit about me
+
+Hi there 👋
+I'm Hendrew Hélio, Software Developer working with the Ruby On Rails ecosystem.
+
+My favorites tools: <b>Ruby On Rails</b> and <b>VueJS</b>
+
+🌱 I’m currently learning <b>Flutter</b>.
 
 <!--
 **Hendrew/hendrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

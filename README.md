@@ -3,8 +3,6 @@
 Hi there 👋<br>
 I'm Hendrew Hélio, Software Developer working with the Ruby On Rails ecosystem.
 
-My favorites tools: <b>Ruby On Rails</b> and <b>NextJS</b>
-
 🌱 I’m currently learning <b>Flutter</b>.
 
 <!--

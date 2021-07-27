@@ -3,7 +3,7 @@
 Hi there 👋<br>
 I'm Hendrew Hélio, Software Developer working with the Ruby On Rails ecosystem.
 
-🌱 I’m currently learning <b>Flutter</b>.
+🌱 I’m currently learning <b>NextJS</b>.
 
 <!--
 **Hendrew/hendrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

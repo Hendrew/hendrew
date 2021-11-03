@@ -2,7 +2,7 @@
 
 Olá, pessoas! 👋<br>
 
-Eu sou o Hendrew Hélio, desenvolvedor web com mais de 8 anos de experiência, atualmente trabalhando com o ecosistema Ruby on Rails.
+Eu sou o Hendrew Hélio, desenvolvedor web com mais de 8 anos de experiência, atualmente trabalhando com o ecossistema Ruby on Rails.
 Atualmente estou trabalhando remotamente para uma empresa de desenvolvimento de software sob medida, onde tenho tido contato com diversas tecnologias, dentre as quais posso destacar: Docker, Kubernetes, Jira, Scrum, Grafana, DataDog, Vault e Rollbar.
 
 <!--

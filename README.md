@@ -5,6 +5,8 @@ Olá, pessoas! 👋<br>
 Eu sou o Hendrew Hélio, desenvolvedor web com mais de 8 anos de experiência, atualmente trabalhando com o ecossistema Ruby on Rails.
 No momento estou trabalhando remotamente para uma empresa de desenvolvimento de software sob medida, onde tenho tido contato com diversas tecnologias, dentre as quais posso destacar: Docker, Kubernetes, Jira, Scrum, Grafana, DataDog, Vault e Rollbar.
 
+Estou sempre em busca de novos conhecimentos e aberto a novas tecnologias, pois procuro sempre enfrentar os desafios da melhor forma possível, me adaptando conforme as necessidades. 
+
 <!--
 **Hendrew/hendrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

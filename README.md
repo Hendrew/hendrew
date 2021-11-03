@@ -1,9 +1,8 @@
-### A little bit about me
+### Sobre mim
 
-Hi there 👋<br>
-I'm Hendrew Hélio, Software Developer working with the Ruby On Rails ecosystem.
-
-🌱 I’m currently learning <b>NextJS</b>.
+Olá, pessoas! 👋<br>
+Eu sou o Hendrew Hélio, desenvolvedor web com mais de 8 anos de experiência, atualmente trabalhando com o ecosistema Ruby on Rails.
+Atualmente estou trabalhando remotamente para uma empresa de desenvolvimento de software sob medida, onde tenho tido contato com diversas tecnologias, dentre as quais posso destacar: Docker, Kubernetes, Jira, Scrum, Grafana, DataDog, Vault e Rollbar.
 
 <!--
 **Hendrew/hendrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Sobre mim
 
-Olá, eu sou o Hendrew Hélio, desenvolvedor web com mais de 8 anos de experiência, atualmente trabalhando com o ecossistema Ruby on Rails.
+Olá, eu sou o Hendrew Hélio, desenvolvedor web com mais de 10 anos de experiência, atualmente trabalhando com o ecossistema Ruby on Rails.
 
 Estou sempre em busca de novos conhecimentos e aberto a novas tecnologias, pois procuro enfrentar os desafios da melhor forma possível, me adaptando conforme as necessidades. 
 

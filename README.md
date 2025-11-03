@@ -1,5 +1,8 @@
 ### Sobre mim
 
-Olá, eu sou o Hendrew, desenvolvedor de sistemas com mais de 10 anos de experiência. Atualmente trabalhando com as tecnologias Ruby, Python e C#.
+Olá! Sou o Hendrew, desenvolvedor web com mais de 10 anos de experiência na área.
+Minha trajetória começou após a conclusão de um curso de Web Design, em uma época em que ferramentas como Dreamweaver e Fireworks eram amplamente utilizadas. No início, foquei em dominar essas ferramentas, mas logo percebi a importância de compreender as linguagens que sustentam a web.
 
-Tenho experiência com desenvolvimento de e-commerce e saas.
+A partir daí, mergulhei no estudo de HTML, CSS, JavaScript e PHP, tecnologias que me acompanharam até 2017, quando passei a trabalhar com Ruby e Ruby on Rails. Desde então, tenho me dedicado continuamente ao aprendizado e à atualização profissional, explorando novas tecnologias e boas práticas para me manter produtivo e alinhado às tendências do desenvolvimento web moderno.
+
+Possuo conhecimento e experiência no desenvolvimento de e-commerce e SaaS.
